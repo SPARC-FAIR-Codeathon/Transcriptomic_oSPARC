@@ -1,1 +1,1 @@
-#Visualize Transcriptomic data in o²S²PARC
+#transcriptomic data visualization   workflow in o²S²PARC
