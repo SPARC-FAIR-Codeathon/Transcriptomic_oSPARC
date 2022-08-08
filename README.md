@@ -1,1 +1,1 @@
-#transcriptomic data visualization   workflow in o²S²PARC
+#SPARC Portal transcriptomic data visualization in o²S²PARC
