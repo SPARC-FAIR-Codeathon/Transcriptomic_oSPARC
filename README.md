@@ -1,2 +1,1 @@
-# 2022-project-5
-Establish services on o²S²PARC to automatically analyze SPARC-relevant image data
+#Visualize Transcriptomic data in o²S²PARC
