@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../main.css">
+    <title>TDVS</title>
+  </head>
+
+  <body>
+
+    <header >
+        <button><a class= "link" href="popup.html">Download</a></button>
+        <button><a class= "link"href="visualize.html"> Visualize </a></button>
+    </header>
+
+
+    <section>
+
+      <h2> Transcriptomics raw data analysis pipeline.</h2>
+
+      <p class="paragraph"> 
+        <ol>
+            <li> Check fastq files quality using the "FastQC" program.</li>
+            <li> Trim and crop the fastq files using the "Trimmomatic" software.</li>
+            <li> Map the reads to the reference genome using the "Star" software.</li>
+            <li> Perform the expression quantification using the "featureCounts" software.</li>
+            <li> Finally perform the differntial expression analysis using the "DESeq2" tool. </li>
+            <li> Now you have a processed data csv file, you can visualize the gene expression and ontology :</li>
+        </ol>
+     </p>
+     <p class="paragraph"><a class="links" href="https://osparc.io/#/study/87cc31ce-1737-11ed-a651-02420a0b0525"> Visualize the data</a>
+    </section>
+  </body> 
+  </html>

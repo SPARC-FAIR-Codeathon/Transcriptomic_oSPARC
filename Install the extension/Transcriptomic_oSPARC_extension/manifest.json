@@ -1,0 +1,16 @@
+{
+    "name": "ToS",
+    "description": "Transcriptomic data visualization",
+    "version": "1.0",
+    
+    "background": {
+      "service_worker": "background.js"
+    },
+      "action": {
+        "default_icon":"logo.png",
+        "default_popup": "popup.html"
+      },
+      "icons":{"128":"logo.png"},
+    "permissions": ["webNavigation"],
+    "manifest_version": 3
+  }
