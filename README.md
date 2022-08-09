@@ -63,17 +63,24 @@ where the taxonomy ID is 9606 for human.
 
 ## Pipeline Outputs :
 First the pipeline will identify differentially expressed genes (DEGs), and define if they are upregulated or downregulated. The espression data is also represented in a volcano plot.
-![image](https://user-images.githubusercontent.com/73958439/183560745-bbbfdd8b-7403-4d12-bd1b-bc3dcc94ccb4.png)
+
 ![image](https://user-images.githubusercontent.com/73958439/183560724-dd10b756-c076-4a0c-84fc-463259da646d.png)
 
+![image](https://user-images.githubusercontent.com/73958439/183560745-bbbfdd8b-7403-4d12-bd1b-bc3dcc94ccb4.png)
+
 Next the ontology of the DEGs are defined: biological processe, Molecular function and Cellular Compenant. The results are represented in 6 graphs.
+
 ![image](https://user-images.githubusercontent.com/73958439/183561159-e1be388f-a8a1-4ae7-a47a-eb235674275b.png)
 
 ## Compare two datasets:
 This option is useful to Compare gene expression profile between two cells, tissues , diseases…
+
 The counts for each gene expression type are performed 
+
 ![image](https://user-images.githubusercontent.com/73958439/183561299-2a3c5e1a-63b0-4a8a-9070-d65acf4b74c1.png)
+
 Also a csv file is created , It specify The expresion profile in each dataset, for all the genes.
+
 ![image](https://user-images.githubusercontent.com/73958439/183561416-76e1da62-4c52-49eb-beed-c91c9ef30571.png)
 
 
