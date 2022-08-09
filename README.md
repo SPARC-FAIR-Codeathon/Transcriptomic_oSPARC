@@ -138,20 +138,29 @@ Also a csv file is created , It specify The expresion profile in each dataset, f
 
 
 
-## How to utilize so the dataset -An example: multiple sclerosis (MS) case studies and compare between groups
+## How to utilize the dataset -An example: multiple sclerosis (MS) case studies and comparision between groups
+
 We use normal-appearing brain tissues from multiple sclerosis patients and healthy donors, and we want to compare the transcriptomics profiles between the two groups: MS vs healthy controls.
+
 To determine the genes associated with the first stages of the diseases, and thanks to the pipeline results, we could determine the pathways that are upregulated and downregulated in MS compared with the controls. 
+
 Besides, we can also compare two independent datasets. For example, if we have the expression of a common gene seens in the two datasets, the MS dataset and another demyelinated dataset such as Guillain-Barre Syndrome (GBS), we can also analyze data from a demyelinating lesion perspective. As well as the controls.
+
 This will allow us to know which genes expression leads to demyelination and which gene absence leads to the same thing. 
 
 ## Contributors
+
 Hiba Benaribi (Leader, extension, and the oSPARC template)
+
 Anmol Kiran (extension, and the oSPARC template)
+
 David Nickerson (SysAdmin)
+
 Hiba Benaribi, Mengyuan Ding (Writer - Documentation)
 
 ## License
-This project is fully Open Source and all generated graphs could be used in articles directly. All above is developed under the MIT License. 
+
+This project is fully Open-Source and all generated graphs and tablets could be used in articles directly. All above is developed under the MIT License. 
 
 
 
