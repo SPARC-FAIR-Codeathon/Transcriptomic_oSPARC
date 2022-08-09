@@ -1,0 +1,6 @@
+pandas==1.4.3
+bioinfokit==2.0.8
+numpy==1.22.1
+matplotlib==3.5.2
+seaborn==0.11.2
+goatools==1.2.3
