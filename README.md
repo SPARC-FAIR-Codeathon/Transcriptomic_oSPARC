@@ -5,13 +5,12 @@
 -	Transcriptomic data on SPARC Portal
 - Project Goal
 -	Why do we need visualization tools for gene expression and transcriptome data?
--	What can we do?
--	How to use the pipe?
--	Interface Walkthrough
--	How does it work?
--	How to utilize so the dataset -An example: multiple sclerosis (MS) case studies and more
+-	The pipeline
+-	Workflow and outputs
+-	User Guide extension
+-	Case study example
 -	Contributors
--	License
+
 
 ## Introduction 
 
@@ -65,7 +64,7 @@ https://www.ncbi.nlm.nih.gov/gene/?term="9606"[Taxonomy+ID]+AND+alive[property]+
 where the taxonomy ID is 9606 for human.
 
 
-## How does it work?
+## Workflow and outputs
 
 ### Identification of differentially expressed genes 
 The genes differential expression profile is base on the p value and the LogFC. The outputs are represented in a Table and a volcano plots, that can include specific genes on demande. As Follows :
