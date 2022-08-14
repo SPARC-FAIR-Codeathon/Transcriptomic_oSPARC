@@ -68,7 +68,7 @@ where the taxonomy ID is 9606 for human.
 ## How does it work?
 
 ### Identification of differentially expressed genes 
-The genes differential expression profile is base on the p value and the LogFC. The outputs are represented in a Table and a volcano plots, that can include specific genes on demande 300"/>
+The genes differential expression profile is base on the p value and the LogFC. The outputs are represented in a Table and a volcano plots, that can include specific genes on demande. As Follows :
 
 <p align="center">
   <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture4.png" width="300"/>
@@ -77,15 +77,21 @@ The genes differential expression profile is base on the p value and the LogFC. 
 The volcano plot figure :
 
 <p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture5.png" width="500"/>
+  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture5.png" width="300"/>
 </p>
 
-The top ontologies are represented in graphs:
+### Identification of genes Ontologies 
+
+The top ontologies of all differentially expressed genes are represented in graphs:
 <p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture6.png" width="500"/>
+  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture6.png" width="300"/>
 </p>
 
-By doing this,  you will get six ontological graphs: three for upregulated genes and three for downregulated genes, one for each category: cellular components, biological processes, and molecular functions.
+A more detailed onlogy analysis is followed generating six ontological graphs: three for upregulated genes and three for downregulated genes, one for each category: cellular components, biological processes, and molecular functions.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73958439/183561159-e1be388f-a8a1-4ae7-a47a-eb235674275b.png" width="500"/>
+</p>
 
 The Gene Ontology overview could be found [here](http://geneontology.org/docs/ontology-documentation/), and it consists of three components: 
 
@@ -93,24 +99,17 @@ The Gene Ontology overview could be found [here](http://geneontology.org/docs/on
 - The biological process(BP) ontological graphs: Describes the biological programs consisting of multiple molecular activities, such as DNA repair or signal transduction.
 - The molecular function(MF) ontological graphs: Describes molecular-level activities performed by gene products, such as “catalysis” or “transport”.
 
-### Six GO graphs: 
-With these six graphs, we could uncover the myth of any interested pathophysiological processes with gene expression and transcriptome data using GO tools in SPARC portal. 
+
+### Two datasets comparison:
+This option is useful to Compare gene expression profile between two cells, tissues ,or diseases…
+
+First, the counts for each gene expression type are performed 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73958439/183561159-e1be388f-a8a1-4ae7-a47a-eb235674275b.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/73958439/183561299-2a3c5e1a-63b0-4a8a-9070-d65acf4b74c1.png" width="300"/>
 </p>
 
-### Compare two datasets:
-This option is useful to Compare gene expression profile between two cells, tissues , diseases…
-
-The counts for each gene expression type are performed 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73958439/183561299-2a3c5e1a-63b0-4a8a-9070-d65acf4b74c1.png" width="500"/>
-</p>
-
-### Generating the Gene csv. file
-Also a csv file is created , It specify The expresion profile in each dataset, for all the genes.
+Next, a comparison is performed between the two datasets, so for each gene the expression profile is determined. The result is represented in a table and could be exported in a csv file.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73958439/183561416-76e1da62-4c52-49eb-beed-c91c9ef30571.png" width="500"/>
