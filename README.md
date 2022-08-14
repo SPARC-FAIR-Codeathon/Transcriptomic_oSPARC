@@ -124,7 +124,7 @@ For the case studied the genes and pathways implicated in the first stages in Mu
 
 To determine the genes associated with the first stages of the diseases, and thanks to the pipeline results, we could determine the pathways that are upregulated and downregulated in MS compared with the controls. 
 
-For the 2 datsets pipeline case study , in addition to the first dataset mentioned previously, we used dataset for the demyelinated lesion also from multiple sclerosis patients and healthy donors. We then copared the two datasets data to determine the genes and pathways implicated in the disease progression.
+For the 2 datsets pipeline case study , in addition to the first dataset mentioned previously, we used dataset for the demyelinated lesion also from multiple sclerosis patients and healthy donors. We then compared the two datasets data to determine the genes and pathways implicated in the disease progression.
 
 Besides, we can also compare two independent datasets. For example the MS dataset and another demyelinated dataset such as Guillain-Barre Syndrome (GBS), and in this case wa will be interested in the common genes instead of the differences.
 
