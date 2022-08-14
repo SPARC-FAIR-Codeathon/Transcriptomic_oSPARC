@@ -67,14 +67,14 @@ where the taxonomy ID is 9606 for human.
 
 ## How does it work?
 
-### First the pipeline will identify differentially expressed genes (DEGs), and define if they are upregulated or downregulated. The espression data is also represented in a volcano plot. 
+### Identification of differentially expressed genes 
+The genes differential expression profile is base on the p value and the LogFC. The outputs are represented in a Table and a volcano plots, that can include specific genes on demande 300"/>
 
-Here is what the OSPARC provides: you import your processed transcriptomics data, and the pipeline will identify the expression level of each gene, this will tell if the gene is upregulated, downregulated, or there is no significant difference.
 <p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture4.png" width="500"/>
+  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture4.png" width="300"/>
 </p>
 
-Then, it will present the data in a volcano plot format as follows:
+The volcano plot figure :
 
 <p align="center">
   <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture5.png" width="500"/>
@@ -120,47 +120,24 @@ Also a csv file is created , It specify The expresion profile in each dataset, f
 We developed a chrome extension that provides a guide from downloading the data from the SPARC portal plateform to Visualize the data in the "Expression" o²S²PARC.  It also provide a direct access link to the oSPARC template. 
 See the folder " User guide extension for more details.
 
-- 1) Open the Chrome extension, and download transcriptomics data from the SPARC portal 
-- 2) Click on the download button, and get a guide on how to download your data.
+## Case study example: 
 
-<p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture1.png" width="500"/>
-</p>
-<p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture2.png" width="500"/>
-</p>
-
-- 3) Click on the analysis button, and you’ll get a suggested pipeline to analyze the raw data.
-<p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/pngs/Picture3.png" width="500"/>
-</p>
-
-- 4) Click on the visualize button, and it will provide a tutorial to use the [OSPARC study](https://osparc.io/).
-
-
-## How to utilize the dataset -An example: multiple sclerosis (MS) case studies and comparision between groups
-
-We use normal-appearing brain tissues from multiple sclerosis patients and healthy donors, and we want to compare the transcriptomics profiles between the two groups: MS vs healthy controls.
+For the case studied the genes and pathways implicated in the first stages in Multiple Sclerosis disease, We used dataset for normal-appearing brain tissues from multiple sclerosis patients and healthy donors, and we want to compare the transcriptomics profiles between the two groups: MS vs healthy controls.
 
 To determine the genes associated with the first stages of the diseases, and thanks to the pipeline results, we could determine the pathways that are upregulated and downregulated in MS compared with the controls. 
 
-Besides, we can also compare two independent datasets. For example, if we have the expression of a common gene seens in the two datasets, the MS dataset and another demyelinated dataset such as Guillain-Barre Syndrome (GBS), we can also analyze data from a demyelinating lesion perspective. As well as the controls.
+For the 2 datsets pipeline case study , in addition to the first dataset mentioned previously, we used dataset for the demyelinated lesion also from multiple sclerosis patients and healthy donors. We then copared the two datasets data to determine the genes and pathways implicated in the disease progression.
 
-This will allow us to know which genes expression leads to demyelination and which gene absence leads to the same thing. 
+Besides, we can also compare two independent datasets. For example the MS dataset and another demyelinated dataset such as Guillain-Barre Syndrome (GBS), and in this case wa will be interested in the common genes instead of the differences.
 
 ## Contributors
 
-Hiba Benaribi (Leader, extension, and the oSPARC template)
+Hiba Benaribi (Leader, Devoloper - Documentation)
 
-Anmol Kiran (extension, and the oSPARC template)
+Anmol Kiran (Devoloper - Documentation)
 
-David Nickerson (SysAdmin)
+Mengyuan Ding (Writer - Documentation)
 
-Hiba Benaribi, Mengyuan Ding (Writer - Documentation)
-
-## License
-
-This project is fully Open-Source and all generated graphs and tablets could be used in articles directly. All above is developed under the MIT License. 
 
 
 
