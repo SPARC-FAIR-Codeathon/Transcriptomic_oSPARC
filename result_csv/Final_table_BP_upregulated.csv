@@ -1,2 +1,0 @@
-GO,term,class,p,p_corr,n_genes,n_study,n_go,study_genes,per,BP
-GO:0007596,blood coagulation,biological_process,9.182963420676173e-08,0.0011637569543022914,3,4,76,"['F5', 'F9', 'C9']",0.039473684210526314,
