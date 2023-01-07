@@ -2,10 +2,14 @@
 
 # 1. About
 
+The two datasets used correspond to peroferal blood cells RNA sequencing data, from multiple scelrosis (MS)patients and healthy donors.
 
 
 # 2. Dataset information
 
+The datasets are from the Gene Expression Omnibus (GEO) database : GSE 126802 and GSE 10800
+- GSE 126802 corresponding to the early MS.
+- GSE 10800) corresponding to the adva,ced MS.
 
 # 3. Results dataset 1 analysis
 
