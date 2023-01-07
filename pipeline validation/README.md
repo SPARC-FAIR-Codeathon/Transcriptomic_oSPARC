@@ -19,11 +19,10 @@ The expression analysis identified 1113 upregulated genes and 723 downregulated 
     ## Upregulated genes
     
 ### BP
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73958439/211151534-98e16709-cc0f-40f6-b70b-239b4da31564.png" width="500"/>
 </p>
- ![image](https://user-images.githubusercontent.com/73958439/211151534-98e16709-cc0f-40f6-b70b-239b4da31564.png)
-
 
 ### CC
 
