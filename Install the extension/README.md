@@ -27,7 +27,7 @@
 # Step 5
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73958439/211155693-e7f33116-452d-48d5-81c9-3678e3e88e2e.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/73958439/211155693-e7f33116-452d-48d5-81c9-3678e3e88e2e.png" width="500"/>
 </p>
 
 # How to install
