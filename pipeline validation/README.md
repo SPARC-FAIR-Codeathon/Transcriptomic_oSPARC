@@ -10,16 +10,18 @@
 
 # 3. Results dataset 1 analysis
 
-## * Expression analysis 
+## Expression analysis 
 The expression analysis identified 1113 upregulated genes and 723 downregulated genes
 ![image](https://user-images.githubusercontent.com/73958439/211151358-5f28358c-2df7-4bbb-832e-a0add85c4667.png)
 
-## * Ontology analysis
+## Ontology analysis
  
-    ## * upregulated genes
+    ## Upregulated genes
     
 ### BP
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73958439/211151534-98e16709-cc0f-40f6-b70b-239b4da31564.png" width="500"/>
+</p>
  ![image](https://user-images.githubusercontent.com/73958439/211151534-98e16709-cc0f-40f6-b70b-239b4da31564.png)
 
 
@@ -29,12 +31,9 @@ The expression analysis identified 1113 upregulated genes and 723 downregulated 
 
 ### MF
 
+![image](https://user-images.githubusercontent.com/73958439/211153614-53e9418f-ea12-46bd-8316-f112d56b051b.png)
 
-![image](https://user-images.githubusercontent.com/73958439/211151580-fc00222a-0d62-4e27-91be-865ed498908e.png)
-
-
-
-    ## * downregulated genes
+## Downregulated genes
     
 ###  BP
 
@@ -51,15 +50,15 @@ The expression analysis identified 1113 upregulated genes and 723 downregulated 
 
 # 4. Results dataset 2 analysis
 
-## * Expression analysis 
+##  Expression analysis 
 
-The expression analysis identified x upregulated genes and x downregulated genes
+The expression analysis identified 3486 upregulated genes and 4329 downregulated genes
 
 ![image](https://user-images.githubusercontent.com/73958439/211151665-87fc3bf4-1e40-4c32-8590-e7b829f74363.png)
 
-## * Ontology analysis
+##  Ontology analysis
  
-   ## * upregulated genes
+   ## Upregulated genes
     
 ### BP
 
@@ -76,9 +75,9 @@ The expression analysis identified x upregulated genes and x downregulated genes
 
 ### MF
 
-*no data* 
+![image](https://user-images.githubusercontent.com/73958439/211152869-4d1f5dad-45f0-4561-a68c-b1d52877b7ad.png)
 
-   ## * downregulated genes
+   ## Downregulated genes
     
 ### BP
 
@@ -90,11 +89,12 @@ The expression analysis identified x upregulated genes and x downregulated genes
 
 ###MF
 
-*no data* 
+![image](https://user-images.githubusercontent.com/73958439/211152528-08b6648c-0e86-482e-a255-56854b0abba2.png)
 
 # 5. compare
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/73958439/211152582-50be7e91-4ea2-4a3b-95c1-3d96ec73bdb1.png)
 
-full data in https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/hiba/pipeline%20validation/data/Merged%20(1).csv
+
+full data: https://github.com/SPARC-FAIR-Codeathon/Transcriptomic_oSPARC/blob/hiba/pipeline%20validation/data/Merged%20(1).csv
 
