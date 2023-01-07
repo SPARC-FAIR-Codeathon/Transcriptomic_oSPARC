@@ -19,7 +19,7 @@ The expression analysis identified 1113 upregulated genes and 723 downregulated 
 
 ## Ontology analysis
 
-    ## Upregulated genes
+## Upregulated genes
   
 ### BP
 
@@ -39,13 +39,11 @@ The expression analysis identified 1113 upregulated genes and 723 downregulated 
   <img src="https://user-images.githubusercontent.com/73958439/211153614-53e9418f-ea12-46bd-8316-f112d56b051b.png" width="700"/>
 </p>  
 
-     ## Downregulated genes
+## Downregulated genes
     
 ###  BP
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73958439/211151568-fa1b84f2-5e10-4a62-be7b-d153b0327b9d.png" width="700"/>
-</p>  
+No statisticly significant ontologies.
 
 ###  CC
 
@@ -70,7 +68,7 @@ The expression analysis identified 3486 upregulated genes and 4329 downregulated
 
 ##  Ontology analysis
  
-    ## Upregulated genes
+## Upregulated genes
     
 ### BP
 
@@ -94,7 +92,7 @@ The expression analysis identified 3486 upregulated genes and 4329 downregulated
   <img src="https://user-images.githubusercontent.com/73958439/211151755-80febc13-60e5-4b1f-957f-54a73cea3b24.png" width="700"/>
 </p>  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73958439/211151827-961dd1c8-9fd5-42ab-a6cf-a00324e3b852.png" width="700"/>
+  <img src="![image](https://user-images.githubusercontent.com/73958439/211154173-c2deff23-d678-4cd7-ad69-5277292cbb56.png)" width="700"/>
 </p>  
 
 ### MF
@@ -103,7 +101,7 @@ The expression analysis identified 3486 upregulated genes and 4329 downregulated
   <img src="https://user-images.githubusercontent.com/73958439/211152869-4d1f5dad-45f0-4561-a68c-b1d52877b7ad.png" width="700"/>
 </p>  
 
-   ## Downregulated genes
+## Downregulated genes
     
 ### BP
 
