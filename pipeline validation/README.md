@@ -47,7 +47,7 @@ BP
 CC
 ![image](https://user-images.githubusercontent.com/73958439/211151752-05a18b53-41cf-4744-8ca5-216218f55f3e.png)
 ![image](https://user-images.githubusercontent.com/73958439/211151755-80febc13-60e5-4b1f-957f-54a73cea3b24.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/73958439/211151827-961dd1c8-9fd5-42ab-a6cf-a00324e3b852.png)
 
 MF
 
@@ -58,4 +58,8 @@ CC
 ![image](https://user-images.githubusercontent.com/73958439/211151692-064967db-78f3-49a7-b1d1-bfe3a3027a81.png)
 
 MF
+
+5. compare
+![Uploading image.png…]()
+full data in merged.csv
 
