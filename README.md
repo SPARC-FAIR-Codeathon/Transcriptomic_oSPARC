@@ -128,6 +128,10 @@ For the 2 datsets pipeline case study , in addition to the first dataset mention
 
 Besides, we can also compare two independent datasets. For example the MS dataset and another demyelinated dataset such as Guillain-Barre Syndrome (GBS), and in this case wa will be interested in the common genes instead of the differences.
 
+## Article  and Citation
+
+Ben Aribi H, Ding M and Kiran A. Gene expression data visualization tool on the o²S²PARC platform [version 2; peer review: 2 approved]. F1000Research 2023, 11:1267 (https://doi.org/10.12688/f1000research.126840.2)
+
 ## Contributors
 
 Hiba Benaribi (Leader, Devoloper - Documentation)
